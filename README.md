@@ -1,5 +1,9 @@
 # TailwindcssDemo
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/10186449/71378551-256bed00-25c0-11ea-94d9-327fab8c50d8.png">
+</p>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
 ## Development server
